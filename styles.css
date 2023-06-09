@@ -1,0 +1,26 @@
+.navbar{
+    background-color: #1F2937;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.nav_logo {
+    color: #f9faf8;
+    font-size: 24px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.nav_link {
+    list-style: none;
+    display:flex;
+}
+
+.nav_item {
+    color: #e5e7eb;
+    font-size: 18px;
+    font-family: "Roboto";
+    justify-content: space-between;
+    padding: 10px;
+}
